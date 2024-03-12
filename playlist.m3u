@@ -292,13 +292,13 @@ https://prod-ent-live-fa.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/ind
 #EXTINF:-1 tvg-id="1396" tvg-name="Sony SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment" ,Sony SD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And TV HD
-http://b1g.ooo/play/live.php?mac=00:1a:79:f1:5e:d2&stream=161830&extension=ts
+
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD
-http://b1g.ooo/play/live.php?mac=00:1a:79:f1:5e:d2&stream=161951&extension=ts
+
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD
-http://b1g.ooo/play/live.php?mac=00:1a:79:f1:5e:d2&stream=161828&extension=ts
+
 #EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD
-http://b1g.ooo/play/live.php?mac=00:1a:79:f1:5e:d2&stream=161953&extension=ts
+
 #EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
