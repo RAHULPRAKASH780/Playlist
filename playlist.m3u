@@ -292,27 +292,27 @@ https://prod-ent-live-fa.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/ind
 #EXTINF:-1 tvg-id="1396" tvg-name="Sony SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment" ,Sony SD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney
-http://xtv.ooo:8080/Awais@20000/Awais@50000/167551
+http://xtv.ooo:8080/10adee/adee10/167551
 #EXTINF:-1 tvg-id="" tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Kids",Hungama
-http://xtv.ooo:8080/Awais@20000/Awais@50000/150480
+http://xtv.ooo:8080/10adee/adee10/150480
 #EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="Kids",Pogo
-http://xtv.ooo:8080/Awais@20000/Awais@50000/150483
+http://xtv.ooo:8080/10adee/adee10/150483
 #EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And TV HD
-http://xtv.ooo:8080/Awais@20000/Awais@50000/66173
+http://xtv.ooo:8080/10adee/adee10/66173
 #EXTINF:-1 tvg-id="472" tvg-name="And TV HD 1080p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And TV HD 1080p
-http://xtv.ooo:8080/Awais@20000/Awais@50000/109952
+http://xtv.ooo:8080/10adee/adee10/109952
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD
-http://xtv.ooo:8080/Awais@20000/Awais@50000/206308
+http://xtv.ooo:8080/10adee/adee10/206308
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD 1080p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD 1080p
-http://xtv.ooo:8080/Awais@20000/Awais@50000/109958
+http://xtv.ooo:8080/10adee/adee10/109958
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD
-http://xtv.ooo:8080/Awais@20000/Awais@50000/66183
+http://xtv.ooo:8080/10adee/adee10/66183
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD 1080p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD 1080p
-http://xtv.ooo:8080/Awais@20000/Awais@50000/109955
+http://xtv.ooo:8080/10adee/adee10/109955
 #EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD
-http://xtv.ooo:8080/Awais@20000/Awais@50000/66162
+http://xtv.ooo:8080/10adee/adee10/66162
 #EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD 1080p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD 1080p
-http://xtv.ooo:8080/Awais@20000/Awais@50000/109950
+http://xtv.ooo:8080/10adee/adee10/109950
 #EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
