@@ -320,9 +320,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="DD National 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National 480p
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National 480p
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=1087600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies",Zee Bollywood
 http://b1g.ooo/play/live.php?mac=00:1a:79:f1:5e:d2&stream=192749&extension=ts
 #EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India 
@@ -336,9 +336,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/News18india/default/index.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News 18 India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/News18india/default/news18india.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="News 18 India 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India 480p
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/News18india/default/news18india-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/News18india/default/news18india-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="News 18 India 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News 18 India 480p
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/News18india/default/news18india-audio_208482_und=208000-video=1087600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/News18india/default/news18india-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="India TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News", India TV 
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="India TV 720p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News", India TV 720p
@@ -360,9 +360,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia/default/ndtvindia.m3u8
 #EXTINF:-1 tvg-id="258" tvg-name="NDTV India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News",NDTV India 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="258" tvg-name="NDTV India 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News",NDTV India 480p
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ndtvindia/default/ndtvindia-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ndtvindia/default/ndtvindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="258" tvg-name="NDTV India 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News", NDTV India 480p
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia/default/ndtvindia-audio_208482_und=208000-video=1087600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia/default/ndtvindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="258" tvg-name="NDTV India 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News",NDTV India 480p
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8
 #EXTINF:-1 tvg-id="177" tvg-name="ABP News India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News", ABP News India 
@@ -376,9 +376,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 #EXTINF:-1 tvg-id="504" tvg-name="Zee News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News", Zee News
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews/default/zeenews.m3u8
 #EXTINF:-1 tvg-id="504" tvg-name="Zee News 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News",Zee News 480p
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/zeenews-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/zeenews-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="504" tvg-name="Zee News 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News", Zee News 480p
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews/default/zeenews-audio_208482_und=208000-video=1087600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews/default/zeenews-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="1906" tvg-name="Times Now Navbharat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News", Times Now Navbharat 
 https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM
@@ -390,11 +390,11 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="587" tvg-name="9XM 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM 480p
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="587" tvg-name="9XM 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music", 9XM 480p
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=1087600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="587" tvg-name="9XM 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM 480p
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=1087600.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="587" tvg-name="9XM Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music", 9XM Music
 https://amg01281-9xmediapvtltd-9xmusic-samsungin-j8yoo.amagi.tv/playlist/amg01281-9xmediapvtltd-9xmusic-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa
@@ -402,9 +402,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9X Jalwa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9Xjalwa.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa 480p
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9X Jalwa 480p
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa 720p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9X Jalwa 720p
@@ -414,9 +414,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music", Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 #EXTINF:-1 tvg-id="250" tvg-name="Music India 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India 480p
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="250" tvg-name="Music India 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India 480p
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India 720p
 http://longstream-03.ajaah.com/PlayBoxTV/MusicIndia/playlist.m3u8
 #EXTINF:-1 tvg-id="1400" tvg-name="MTV Beats" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Music", MTV Beats
@@ -424,16 +424,16 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/index.m3u8
 #EXTINF:-1 tvg-id="1400" tvg-name="MTV Beats" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Music", MTV Beats
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 #EXTINF:-1 tvg-id="1400" tvg-name="MTV Beats 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Music", MTV Beats 480p
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="1400" tvg-name="MTV Beats 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Music", MTV Beats 480p
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=1087600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="592" tvg-name="Zoom" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" tvg-type="Music" group-title="Music",Zoom 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:-1 tvg-id="592" tvg-name="Zoom" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" tvg-type="Music" group-title="Music", Zoom
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 tvg-id="592" tvg-name="Zoom 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" tvg-type="Music" group-title="Music",Zoom 480p
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="592" tvg-name="Zoom 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" tvg-type="Music" group-title="Music", Zoom 480p
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=1087600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD" tvg-type="Infotainment" group-title="Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
